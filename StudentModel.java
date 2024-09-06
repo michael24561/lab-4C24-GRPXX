@@ -1,3 +1,6 @@
+//Colaborador: Franclin Gonzales Alejandria
+
+
 public class StudentModel {
     private String name;
     private int age;
